@@ -1,3 +1,7 @@
+Recently started learning js(Javascript) and this is the first thing that I bulit using it Be Nice:)
+
+
+
 # Password Generator
 
 A password generator built with plain HTML, CSS and JavaScript. You pick a length,
